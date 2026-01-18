@@ -1,6 +1,6 @@
 # Unity-SupermarioBros
 
-Remake of the NES Super Mario Bros and its first level "World 1-1," made with the Unity Game Engine.
+Remake of the NES Super Mario Bros and its first level "World 1-1," made with the Unity Game Engine (2022.3.62f3 LTS).
 
 Video Preview:
 
